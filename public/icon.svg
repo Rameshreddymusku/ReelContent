@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#161513"/>
+  <circle cx="384" cy="128" r="44" fill="#E04826"/>
+  <text x="88" y="310" font-family="sans-serif" font-weight="800" font-size="180" fill="#F5F3EE" letter-spacing="-8">S04</text>
+  <text x="94" y="395" font-family="monospace" font-weight="600" font-size="40" fill="#A09C94" letter-spacing="6">REEL SHOOTS</text>
+</svg>

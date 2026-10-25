@@ -1,0 +1,6 @@
+{
+  "name": "Studio 04 · Reel Shoots",
+  "description": "Progressive Web App for booking Studio 04 reel shoot slots, viewing confirmation orders and tickets, sending Gmail confirmations, WhatsApp concierge, and Studio Admin regional analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
